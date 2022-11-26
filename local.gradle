@@ -1,0 +1,5 @@
+android {
+    defaultConfig {
+        buildConfigField 'String', 'API_KEY', '"5jA0TNe6lh47m4HKJtdwB2KT8CGZO8xl0vMGMaEK"'
+    }
+}
